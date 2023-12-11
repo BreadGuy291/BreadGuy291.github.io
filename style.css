@@ -1,10 +1,5 @@
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50;
-  height: 50;
-}
 
-.Text {
-  color: #03151a;
+
+<body> {
+ background: color: blue;
+}
