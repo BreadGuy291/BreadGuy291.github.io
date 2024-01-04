@@ -5,3 +5,7 @@ body {
 body {
   font-family: 'Trebuchet MS', sans-serif;
 }
+
+  body { 
+    background-image:url('animated_bg.gif'); background-repeat:repeat; 
+  }
