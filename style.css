@@ -6,6 +6,12 @@ body {
   font-family: 'Trebuchet MS', sans-serif;
 }
 
-  body { 
-    background-image:url('https://cdn.dribbble.com/users/27292/screenshots/971165/animated_bg.gif'); background-repeat:repeat; 
-  }
+body {
+
+background-image: url('animated_bg.gif');
+
+background-repeat: no-repeat;
+
+background-size: cover;
+
+}
